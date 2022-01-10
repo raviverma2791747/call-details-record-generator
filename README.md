@@ -1,6 +1,8 @@
 # call-details-record-generator
 
-## Dependencies
+## Maven Project
+
+### Dependencies
 
 - [junit](https://mvnrepository.com/artifact/junit/junit)
 - [joda-time](https://mvnrepository.com/artifact/joda-time/joda-time)
